@@ -91,7 +91,7 @@ header.scrolled {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: url('../img/fondo_Web.svg');
+    background-image: url('../fondo_Web.svg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -237,7 +237,7 @@ header.scrolled {
     width: 100%;
     height: 600px;
     /* Puedes ajustar la altura según sea necesario */
-    background-image: url('../img/fondo_web_2.svg');
+    background-image: url('../fondo_web_2.svg');
     /* Cambia esta URL por la imagen que desees */
     background-size: cover;
     background-position: center;
